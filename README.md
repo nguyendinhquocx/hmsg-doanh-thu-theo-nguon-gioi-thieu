@@ -5,7 +5,7 @@ Báo cáo phân tích doanh thu theo các nguồn giới thiệu bệnh nhân, c
 
 ## 📊 Xem Báo Cáo
 
-👉 **[XEM BÁO CÁO ĐẦY ĐỦ TẠI ĐÂY](./Bao_Cao_Phan_Tich_Doanh_Thu.md)**
+👉 **[XEM BÁO CÁO ĐẦY ĐỦ TẠI ĐÂY](./index.md)**
 
 ## Nội Dung Báo Cáo
 
@@ -18,7 +18,7 @@ Báo cáo phân tích doanh thu theo các nguồn giới thiệu bệnh nhân, c
 
 ### 📁 Cấu Trúc Files
 ```
-├── Bao_Cao_Phan_Tich_Doanh_Thu.md    # 📋 Báo cáo chính với tất cả biểu đồ
+├── index.md    # 📋 Báo cáo chính với tất cả biểu đồ
 ├── .image/                            # 🖼️ Thư mục chứa các file hình ảnh
 │   ├── top_10_nguon_gioi_thieu.png
 │   ├── phan_bo_doanh_thu_top5.png
@@ -32,7 +32,7 @@ Báo cáo phân tích doanh thu theo các nguồn giới thiệu bệnh nhân, c
 
 ## 🚀 Cách Sử Dụng
 
-1. **Xem báo cáo**: Click vào link [Báo Cáo Đầy Đủ](./Bao_Cao_Phan_Tich_Doanh_Thu.md)
+1. **Xem báo cáo**: Click vào link [Báo Cáo Đầy Đủ](./index.md)
 2. **Tải hình ảnh**: Download các file PNG trong thư mục `.image/`
 3. **Chia sẻ**: Copy link repository này
 
