@@ -1,13 +1,14 @@
 # Báo Cáo Phân Tích Doanh Thu Theo Nguồn Giới Thiệu
 
 ## Tổng Quan
+
 Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệnh nhân, bao gồm xu hướng theo thời gian, hiệu suất và phân bố doanh thu.
 
 ---
 
 ## 1. Top 10 Nguồn Giới Thiệu Theo Doanh Thu
 
-![Top 10 Nguồn Giới Thiệu](.image/top_10_nguon_gioi_thieu.png)
+![Top 10 Nguồn Giới Thiệu](image/top_10_nguon_gioi_thieu.png)
 
 *Biểu đồ cột thể hiện 10 nguồn giới thiệu có doanh thu cao nhất, giúp xác định các kênh quan trọng nhất.*
 
@@ -15,7 +16,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 
 ## 2. Phân Bố Doanh Thu Top 5 Nguồn
 
-![Phân Bố Doanh Thu Top 5](.image/phan_bo_doanh_thu_top5.png)
+![Phân Bố Doanh Thu Top 5](image/phan_bo_doanh_thu_top5.png)
 
 *Biểu đồ tròn hiển thị tỷ lệ phần trăm doanh thu của 5 nguồn giới thiệu hàng đầu.*
 
@@ -23,7 +24,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 
 ## 3. Xu Hướng Doanh Thu Theo Tháng
 
-![Xu Hướng Doanh Thu Theo Tháng](.image/xu_huong_theo_thang.png)
+![Xu Hướng Doanh Thu Theo Tháng](image/xu_huong_theo_thang.png)
 
 *Biểu đồ đường thể hiện xu hướng doanh thu tổng thể theo từng tháng trong năm.*
 
@@ -31,7 +32,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 
 ## 4. Xu Hướng Doanh Thu Top 5 Nguồn Theo Tháng
 
-![Xu Hướng Top 5 Nguồn](.image/xu_huong_doanh_thu_theo_thang.png)
+![Xu Hướng Top 5 Nguồn](image/xu_huong_doanh_thu_theo_thang.png)
 
 *Biểu đồ đường so sánh xu hướng doanh thu của 5 nguồn giới thiệu hàng đầu qua các tháng.*
 
@@ -39,7 +40,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 
 ## 5. Xu Hướng Tất Cả Nguồn Theo Tháng
 
-![Xu Hướng Tất Cả Nguồn](.image/xu_huong_tat_ca_nguon.png)
+![Xu Hướng Tất Cả Nguồn](image/xu_huong_tat_ca_nguon.png)
 
 *Biểu đồ đường tổng hợp xu hướng của tất cả các nguồn giới thiệu theo thời gian.*
 
@@ -47,7 +48,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 
 ## 6. Phân Tích Hiệu Suất (Scatter Plot)
 
-![Scatter Plot Hiệu Suất](.image/scatter_hieu_suat.png)
+![Scatter Plot Hiệu Suất](image/scatter_hieu_suat.png)
 
 *Biểu đồ phân tán thể hiện mối quan hệ giữa số lượng bệnh nhân và doanh thu trung bình, giúp đánh giá hiệu suất từng nguồn.*
 
@@ -55,7 +56,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 
 ## 7. Heatmap Doanh Thu Theo Nguồn và Tháng
 
-![Heatmap Doanh Thu](.image/heatmap_doanh_thu.png)
+![Heatmap Doanh Thu](image/heatmap_doanh_thu.png)
 
 *Bản đồ nhiệt hiển thị cường độ doanh thu của từng nguồn giới thiệu theo từng tháng, dễ dàng nhận biết các điểm nóng.*
 
@@ -64,6 +65,7 @@ Báo cáo phân tích chi tiết doanh thu theo các nguồn giới thiệu bệ
 ## Kết Luận
 
 Các biểu đồ trên cung cấp cái nhìn toàn diện về:
+
 - **Nguồn giới thiệu hiệu quả nhất** về mặt doanh thu
 - **Xu hướng theo thời gian** để dự đoán và lập kế hoạch
 - **Hiệu suất tương đối** giữa các nguồn khác nhau
