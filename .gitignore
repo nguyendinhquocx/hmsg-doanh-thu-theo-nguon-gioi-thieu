@@ -1,0 +1,44 @@
+# Jupyter Notebook files
+*.ipynb
+*.ipynb_checkpoints/
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+danh sach bv chuyen toi hmsg/
+file xu li du lieu.xlsx
+bao_cao_phan_tich_doanh_thu.xlsx
+danh sach.xlsx
+
+# Python files
+*.py
+*.pyc
+__pycache__/
+requirements.txt
+
+# Documentation files (keep only the main report)
+slide_trinh_bay.*
+phan tich nguon gui benh.*
+HUONG_DAN_CHUYEN_DOI_PPTX.md
+HUONG_DAN_PUSH_GITHUB.md
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Keep only these files:
+# README.md
+# Bao_Cao_Phan_Tich_Doanh_Thu.md
+# .image/*.png
