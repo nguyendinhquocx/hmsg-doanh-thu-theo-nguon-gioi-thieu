@@ -31,7 +31,7 @@ print("Số dòng dữ liệu:", len(df))
 print("\n1. Đang tính toán doanh thu theo nguồn...")
 # Tính doanh thu theo nguồn (sửa tên cột)
 doanh_thu_theo_nguon = df.groupby('noi gioi thieu').agg({
-    'so luong ': 'sum',  # Có dấu cách ở cuối
+    'so luong': 'sum',  # Có dấu cách ở cuối
     'doanh thu': 'sum'
 }).sort_values('doanh thu', ascending=False)
 
@@ -41,7 +41,7 @@ doanh_thu_theo_nguon.columns = ['so luong', 'doanh thu']
 print("\n2. Đang tính toán hiệu suất nguồn...")
 # Tính hiệu suất nguồn
 hieu_suat_nguon = df.groupby('noi gioi thieu').agg({
-    'so luong ': 'sum',
+    'so luong': 'sum',
     'doanh thu': 'sum'
 }).reset_index()
 hieu_suat_nguon.columns = ['noi gioi thieu', 'so luong', 'doanh thu']
@@ -50,7 +50,7 @@ hieu_suat_nguon['trung binh'] = hieu_suat_nguon['doanh thu'] / hieu_suat_nguon['
 print("\n3. Đang tính toán doanh thu theo tháng...")
 # Tính doanh thu theo tháng
 doanh_thu_theo_thang = df.groupby('thang').agg({
-    'so luong ': 'sum',
+    'so luong': 'sum',
     'doanh thu': 'sum'
 }).reset_index()
 doanh_thu_theo_thang.columns = ['thang', 'so luong', 'doanh thu']
