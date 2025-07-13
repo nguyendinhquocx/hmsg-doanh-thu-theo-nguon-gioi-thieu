@@ -12,7 +12,6 @@ bao_cao_phan_tich_doanh_thu.xlsx
 danh sach.xlsx
 
 # Python files
-*.py
 *.pyc
 __pycache__/
 requirements.txt
