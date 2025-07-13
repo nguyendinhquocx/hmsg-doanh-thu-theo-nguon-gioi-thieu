@@ -11,11 +11,6 @@ file xu li du lieu.xlsx
 bao_cao_phan_tich_doanh_thu.xlsx
 danh sach.xlsx
 
-# Python files
-*.pyc
-__pycache__/
-requirements.txt
-
 # Documentation files (keep only the main report)
 slide_trinh_bay.*
 phan tich nguon gui benh.*
